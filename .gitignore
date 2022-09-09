@@ -1,0 +1,14 @@
+.DS_Store
+
+.packages
+.pub/
+
+.dart_tool/*
+example/.flutter*
+
+
+pubspec.lock
+example/pubspec.lock
+example/.packages
+
+build/
